@@ -4,8 +4,11 @@ def find_even_numbers(lst):
     if i % 2 == 0:
       new_list.append(i)
   print("Removing a messy commit 2")
-  a=10
+
   b=10
+
+  a=4
+
   return new_list
 
 if __name__ == "__main__":
