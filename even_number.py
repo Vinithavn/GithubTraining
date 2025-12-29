@@ -6,6 +6,8 @@ def find_even_numbers(lst):
   print("Removing a messy commit 2")
   a="commit 2"
   b = "b commit"
+  c = "c commit"
+  d = "d commit"
   return new_list
 
 if __name__ == "__main__":
