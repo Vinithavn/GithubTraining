@@ -7,7 +7,6 @@ def find_even_numbers(lst):
   a="commit 2"
   b = "b commit"
   c = "c commit"
-  d = "d commit"
   return new_list
 
 if __name__ == "__main__":
